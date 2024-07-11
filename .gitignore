@@ -1,0 +1,11 @@
+### IntelliJ IDEA and logs ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+LOG_FILE_IS_UNDEFINED
+*release.properties
+*.releaseBackup
+
+.DS_Store
